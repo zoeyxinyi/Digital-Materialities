@@ -25,10 +25,13 @@ Design Process:
   Composition Planning: Determined the overall layout, balance, and hierarchy of elements within the composition.
 
 -Digital Design Process:
+
   Software Tools: shadertoy
 
 Conclusion:
 
 The visual design successfully captures the essence of evolution and transformation through a carefully planned and executed process. The combination of conceptual thinking, digital skills, and attention to detail contributes to a visually compelling representation of the journey from a dot to an abstract star.
+
+
 ![star](https://github.com/zoeyxinyi/Digital-Materialities/assets/145166450/13f7344c-0713-4f21-8868-007c554d16b4)
 
